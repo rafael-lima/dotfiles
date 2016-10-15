@@ -1,0 +1,7 @@
+[user]
+    	email = "faell.dev@gmail.com"
+	name = "Rafael Lima"
+
+[alias]
+	hist = log --graph --date=iso
+	hist-branch = log --oneline --decorate --all --graph --date=iso
