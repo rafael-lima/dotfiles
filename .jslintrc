@@ -1,0 +1,9 @@
+{
+	"vars": false,
+	"node": true,
+	"white": true,
+	"plusplus": true,
+	"nomen": true,
+	"sloppy": false,
+	"indent": 2
+}
