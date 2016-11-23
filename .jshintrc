@@ -1,8 +1,10 @@
 {
-	"esversion": 6,
+	"node": true,
+	"esnext": true,
 	"eqeqeq": true,
 	"forin": true,
-	"strict": true,
+	"strict": false,
+	"immed": true,
 	"unused": true,
 	"proto": true
 }
