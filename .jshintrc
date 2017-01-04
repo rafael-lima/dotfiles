@@ -1,10 +1,13 @@
 {
 	"node": true,
+	"bitwise": true,
 	"esnext": true,
 	"eqeqeq": true,
 	"forin": true,
 	"strict": false,
-	"immed": true,
+	"undef": true,
 	"unused": true,
+	"freeze": true,
+	"noyield": true,
 	"proto": true
 }
