@@ -4,7 +4,7 @@
 	"esnext": true,
 	"eqeqeq": true,
 	"forin": true,
-	"strict": false
+	"strict": false,
 	"unused": true,
 	"freeze": true,
 	"noyield": true,
