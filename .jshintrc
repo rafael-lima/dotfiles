@@ -2,7 +2,7 @@
 	"node": true,
 	"bitwise": true,
 	"esnext": true,
-	"eqeqeq": true,
+	"eqeqeq": false,
 	"forin": true,
 	"strict": false,
 	"unused": true,
